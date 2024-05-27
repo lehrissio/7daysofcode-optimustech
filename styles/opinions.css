@@ -1,0 +1,66 @@
+.opinions {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+    margin: 0px 7rem 0px 7rem;
+    padding: 4rem;
+}
+
+.opinions__subtitle {
+    font-family: var(--inter-semibold-font-family);
+    font-weight: var(--inter-semibold-font-weight);
+    font-size: 0.875rem;
+    color: var(--fourth-color);
+    margin-bottom: 1rem;
+}
+
+.opinions__title {
+    font-family: var(--inter-medium-font-family);
+    font-weight: var(--inter-medium-font-weight);
+    font-size: 2.25rem;
+    color: var(--fifth-color);
+}
+
+.opinions__avatar {
+    text-align: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.opinions__avatar__image {
+    margin-bottom: 1rem;
+}
+
+.opinions__avatar__name {
+    font-family: var(--inter-medium-font-family);
+    font-weight: var(--inter-medium-font-weight);
+    color: var(--fifth-color);
+    margin-bottom: 0.25rem;
+}
+
+.opinions__avatar__job {
+    font-size: 0.875rem;
+}
+
+@media screen and (max-width: 1024px) {
+    .opinions {
+        margin: 2em 0 6em 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    .opinions__container {
+        width: 85%;
+    }
+
+    .opinions__subtitle {
+        margin-bottom: 2em;
+    }
+
+    .opinions__title {
+        font-size: 1.5rem;
+    }
+}

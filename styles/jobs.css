@@ -1,0 +1,131 @@
+.jobs {
+    margin: 12rem 7rem 2rem 7rem;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.jobs__talents {
+    align-items: center;
+    text-align: center;
+}
+
+.jobs__talents__subtitle {
+    font-family: var(--inter-medium-font-family);
+    font-weight: var(--inter-medium-font-weight);
+    font-size: 0.875rem;
+    color: var(--fourth-color);
+    margin-bottom: 1.25rem;
+    display: inline-block;
+    padding: 0.5%;
+    background-color: #F9F4F4;
+}
+
+.jobs__talents__title {
+    font-family: var(--inter-semibold-font-family);
+    font-weight: var(--inter-semibold-font-weight);
+    font-size: 2.25rem;
+    color: var(--fifth-color);
+    margin-bottom: 1.25rem;
+}
+
+.jobs__talents__text {
+    font-size: 1.25rem;
+    margin-bottom: 4rem;
+}
+
+.jobs__talents__image {
+    width: 100%;
+}
+
+.jobs__openjobs{
+    margin: 0 16rem 0 16rem;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.openjobs__content {
+    margin-bottom: 2.5rem;
+}
+
+.openjobs__title {
+    font-family: var(--inter-medium-font-family);
+    font-weight: var(--inter-medium-font-weight);
+    font-size: 1.25rem;
+    color: var(--fifth-color);
+}
+
+.openjobs__item {
+    padding: 1.5rem;
+    margin: 1.5rem 0 1.5rem 0;
+}
+
+.openjobs__item__function {
+    font-family: var(--inter-medium-font-family);
+    font-weight: var(--inter-medium-font-weight);
+    font-size: 1.125rem;
+    color: var(--fifth-color);
+    margin-bottom: 2rem;
+}
+
+.openjobs__item__details {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+}
+
+.openjobs__item__topic {
+    font-family: var(--inter-medium-font-family);
+    font-weight: var(--inter-medium-font-weight);
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 1024px){
+    .jobs, .openjobs__item, .jobs__talents__subtitle, .jobs__openjobs{
+        margin: 0;
+        padding: 0;
+    }
+     
+    .jobs {
+        margin: 0 0 6em 0;
+    }
+
+    .jobs__openjobs{
+        margin-left: 1em;
+    }
+
+    .openjobs__title {
+        margin-bottom: 1em;
+    }
+
+    .jobs__talents__subtitle {
+        margin-bottom: 1em;
+    }
+
+    .openjobs__content {
+        display: flex;
+        align-items: initial;
+        flex-direction: column;
+        margin: 0;
+    }
+
+    .openjobs__item {
+        margin: 0 0 1.5em 2em;
+    }
+
+    #opensjobs__content--gape {
+        margin-bottom: 4em;
+    }
+
+    .openjobs__item__function {
+        margin-bottom: 0.5em;
+    }
+
+    @media screen and (min-width:700px){
+        .jobs__openjobs{
+            margin-left: 6em;
+        }
+    }
+}

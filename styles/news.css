@@ -1,0 +1,46 @@
+.news {
+    margin: 8rem 19rem 0 19rem;
+    padding: 2rem 2rem 2rem 0px;
+    text-align: center;
+}
+
+.news__title {
+    font-family: var(--inter-semibold-font-family);
+    font-weight: var(--inter-semibold-font-weight);
+    font-size: 2.25rem;
+    color: var(--fifth-color);
+    margin-bottom: 1.25rem;
+}
+
+.news__subtitle {
+    font-size: 1.25rem;
+    margin-bottom: 2.5rem;
+}
+
+.news__form__email {
+    padding: 12px;
+    margin-right: 1rem;
+    width: 22.5rem;
+    border: 1px solid #D0D5DD;
+    border-radius: 0.5rem;
+}
+
+.news__form__submit {
+    background-color: var(--fourth-color);
+    cursor: pointer;
+    color: var(--third-color);
+    padding: 0.8rem 1rem;
+    border-radius: 0.5rem;
+    width: 7.25rem;
+}
+
+@media screen and (max-width: 1024px) {
+    .news {
+        margin: 0 0 3em 0;
+        padding: 0;
+    }
+
+    .news__form__email {
+        width: 50%;
+    }
+}
