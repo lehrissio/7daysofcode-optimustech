@@ -1,6 +1,7 @@
 # Projeto - 7DaysOfCode - OptimusTech
 
 ![OptimusTech](https://github.com/lehrissio/7daysofcode-optimustech/assets/103052994/c6343d74-8560-4a37-879d-eddbada27c59)
+![OptimusTech (menu)](https://github.com/lehrissio/7daysofcode-optimustech/assets/103052994/cd4c798a-d531-4e6c-b926-690550e978f0)
 
 
 ## Ferramentas Utilizadas
