@@ -39,7 +39,7 @@
     }
 
     .metrics {
-        text-align: left;
+        text-align: center;
         flex-direction: column;
         justify-content: space-between;
         gap: 4rem;
