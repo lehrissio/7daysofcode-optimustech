@@ -9,6 +9,7 @@
 
 .metrics__metric {
     width: 20%;
+    list-style: none;
 }
 
 .metrics__metric__title {
@@ -48,7 +49,7 @@
     }
 
     .metrics__metric {
-        width: 80%;
+        width: 65%;
     }
 }
 
