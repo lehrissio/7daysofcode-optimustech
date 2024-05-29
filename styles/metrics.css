@@ -39,8 +39,7 @@
     }
 
     .metrics {
-        justify-content: center;
-        align-items: center;
+        text-align: left;
         flex-direction: column;
         justify-content: space-between;
         gap: 4rem;
