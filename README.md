@@ -32,6 +32,6 @@ Desenvolvido no Desafio 7 Days Of Code de HTML e CSS da plataforma de estudos Al
 > No sétimo e último dia do desafio, você criará a parte mais inferior da página: o rodapé. Mas não é um rodapé qualquer, ele contém, entre outras coisas, um formulário para cadastro de e-mail com um valor pré-definido e também um botão, ambos perfeitamente alinhados. Você irá fechar com chave de ouro!
 
 ### Conclusão:
-Foi possível colocar em prática os conceitos que aprendi durante os cursos da Formação da Alura "A partir do Zero: HTML e CSS para Projetos Web" e consequentemente fixar ainda mais o aprendizado, além de aprender ainda mais!
+Foi possível colocar em prática os conceitos que aprendi durante os cursos da Formação da Alura "[A partir do Zero: HTML e CSS para Projetos Web](https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR)" e consequentemente fixar ainda mais o aprendizado, além de aprender ainda mais!
 
 [Link do Desafio](https://7daysofcode.io/matricula/html-css)
