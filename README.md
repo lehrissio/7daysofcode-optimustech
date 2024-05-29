@@ -1,15 +1,21 @@
 # Projeto - 7DaysOfCode - OptimusTech
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **OptimusTech**
+| :label: Tecnologias | HTML, CSS, display grid, flexbox
+| :rocket: URL         | [OptimusTech](https://7daysofcode-optimustech.vercel.app/)
+| :fire: Desafio     |[Link do Desafio](https://7daysofcode.io/matricula/html-css)
+
+## Detalhes do projeto
+
+Desenvolvido no Desafio 7 Days Of Code de HTML e CSS da plataforma de estudos Alura. Durante 7 dias pratiquei o meu conhecimento de HTML e CSS para desenvolver uma página através de um layout no Figma. 
+
+![7daysofcode-optimustech vercel app_](https://github.com/lehrissio/7daysofcode-optimustech/assets/103052994/68db8e68-c346-4de7-a37a-1175c9aa9f2e#vitrinedev)
+
 ![OptimusTech](https://github.com/lehrissio/7daysofcode-optimustech/assets/103052994/df0b0300-60ed-4c81-b3e3-47ee2fa85253)
 
-
-## Ferramentas Utilizadas
-  * HTML e CSS
-  * Display Grid
-  * Flexbox
-
-## 7DaysOfCode:
-Desenvolvido no Desafio 7 Days Of Code de HTML e CSS da plataforma de estudos Alura. Durante 7 dias pratiquei o meu conhecimento de HTML e CSS para desenvolver uma página através de um layout no Figma. Todos os dias os desafios foram enviados, sendo eles:
+### Todos os dias os desafios foram enviados, sendo eles:
 
 - [x] DIA 1
 > Já no primeiro dia, você vai ser apresentado com o layout de uma página no Figma, analisá-lo e usá-lo para criar o cabeçalho da sua página, que contém um logo, links para outras páginas e alguns botões.
@@ -35,4 +41,3 @@ Desenvolvido no Desafio 7 Days Of Code de HTML e CSS da plataforma de estudos Al
 ### Conclusão:
 Foi possível colocar em prática os conceitos que aprendi durante os cursos da Formação da Alura "[A partir do Zero: HTML e CSS para Projetos Web](https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR)" e consequentemente fixar ainda mais o aprendizado, além de aprender ainda mais!
 
-[Link do Desafio](https://7daysofcode.io/matricula/html-css)
