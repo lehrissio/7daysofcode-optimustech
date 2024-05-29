@@ -54,8 +54,16 @@
 
 @media screen and (min-width:750px){
     @media screen and (max-width: 1024px) {
+        .metrics {
+            display: grid;
+            gap: 3rem 0;
+            width: 100%;
+            grid-template-columns: 50% 50%;
+            justify-items: center;
+        }
+
         .metrics__metric {
-            width: 35%;
+            width: 50%;
         }
 
         .metrics__line1 {
