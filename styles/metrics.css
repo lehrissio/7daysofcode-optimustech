@@ -39,8 +39,6 @@
     }
 
     .metrics {
-        display: flex;
-        text-align: center;
         justify-content: center;
         align-items: center;
         flex-direction: column;
@@ -49,7 +47,7 @@
     }
 
     .metrics__metric {
-        width: 65%;
+        width: 50%;
     }
 }
 
