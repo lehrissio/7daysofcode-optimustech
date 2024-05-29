@@ -1,10 +1,11 @@
 # Projeto - 7DaysOfCode - OptimusTech
 
-![OptimusTech](https://github.com/lehrissio/7daysofcode-optimustech/assets/103052994/ded352c7-9173-47a0-a240-5ad8da6828c3)
+![OptimusTech](https://github.com/lehrissio/7daysofcode-optimustech/assets/103052994/df0b0300-60ed-4c81-b3e3-47ee2fa85253)
 
 
 ## Ferramentas Utilizadas
   * HTML e CSS
+  * Display Grid
   * Flexbox
 
 ## 7DaysOfCode:
