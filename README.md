@@ -11,9 +11,8 @@
 
 Desenvolvido no Desafio 7 Days Of Code de HTML e CSS da plataforma de estudos Alura. Durante 7 dias pratiquei o meu conhecimento de HTML e CSS para desenvolver uma página através de um layout no Figma. 
 
+![Design sem nome](https://github.com/lehrissio/7daysofcode-optimustech/assets/103052994/9f952c84-02b2-4d06-aa0e-c9b0746fa3ce)
 ![7daysofcode-optimustech vercel app_](https://github.com/lehrissio/7daysofcode-optimustech/assets/103052994/68db8e68-c346-4de7-a37a-1175c9aa9f2e#vitrinedev)
-
-![OptimusTech](https://github.com/lehrissio/7daysofcode-optimustech/assets/103052994/df0b0300-60ed-4c81-b3e3-47ee2fa85253)
 
 ### Todos os dias os desafios foram enviados, sendo eles:
 
