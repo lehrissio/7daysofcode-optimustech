@@ -1,20 +1,42 @@
-# Projeto - 7DaysOfCode - OptimusTech
+<h1 align="center">Projeto - 7DaysOfCode - OptimusTech</h1>
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **OptimusTech**
-| :label: Tecnologias | HTML, CSS, display grid, flexbox
-| :rocket: URL         | [OptimusTech](https://7daysofcode-optimustech.vercel.app/)
-| :fire: Desafio     |[Link do Desafio](https://7daysofcode.io/matricula/html-css)
+<p align="center"> Desenvolvido no Desafio 7 Days Of Code de HTML e CSS da plataforma de estudos Alura. Durante 7 dias pratiquei o meu conhecimento de HTML e CSS para desenvolver uma página através de um layout no Figma. Utilizei conceitos como Flexbox, media queries, unidades relativas e medidas responsivas em CSS. </p>
 
-## Detalhes do projeto
+<br>
+<br>
 
-Desenvolvido no Desafio 7 Days Of Code de HTML e CSS da plataforma de estudos Alura. Durante 7 dias pratiquei o meu conhecimento de HTML e CSS para desenvolver uma página através de um layout no Figma. 
+<div align="center">
+  <a target="_blank" href="https://7daysofcode-optimustech.vercel.app/">
+          <img width="90%" src="./assets/mockup.jpg" alt="portifolio">
+  </a>
+</div>
 
-![Design sem nome](https://github.com/lehrissio/7daysofcode-optimustech/assets/103052994/9f952c84-02b2-4d06-aa0e-c9b0746fa3ce)
-![7daysofcode-optimustech vercel app_](https://github.com/lehrissio/7daysofcode-optimustech/assets/103052994/68db8e68-c346-4de7-a37a-1175c9aa9f2e#vitrinedev)
+<div align="center">
+    <h3>Página completa</h3><br>
+    <a target="_blank" href="https://7daysofcode-optimustech.vercel.app/">
+    <img width="80%" src="./assets/print_home.png" alt="portifolio">
+    </a>
+</div>
+<br>
 
-### Todos os dias os desafios foram enviados, sendo eles:
+
+## 🚀 Tecnologias
+* HTML e CSS
+* Media queries
+* Flexbox
+<br>
+
+
+## 💻 Projeto
+Para visualizar a última vesão do projeto clique abaixo:
+<br>
+<br>
+Visite o [projeto](https://7daysofcode-optimustech.vercel.app/) online.
+<br>
+<br>
+
+## 🧠 Desafio
+Todos os dias os desafios foram enviados, sendo eles:
 
 - [x] DIA 1
 > Já no primeiro dia, você vai ser apresentado com o layout de uma página no Figma, analisá-lo e usá-lo para criar o cabeçalho da sua página, que contém um logo, links para outras páginas e alguns botões.
@@ -39,4 +61,15 @@ Desenvolvido no Desafio 7 Days Of Code de HTML e CSS da plataforma de estudos Al
 
 ### Conclusão:
 Foi possível colocar em prática os conceitos que aprendi durante os cursos da Formação da Alura "[A partir do Zero: HTML e CSS para Projetos Web](https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR)" e consequentemente fixar ainda mais o aprendizado, além de aprender ainda mais!
+
+<br>
+
+---
+
+Feito com muito ♥
+
+Obrigado por visitar meu Github ♥
+Me dê um "FOLLOW" que retribuo, vamos criar novas conexões 😊
+
+Até a próxima! 👋😊
 
