@@ -7,14 +7,14 @@
 
 <div align="center">
   <a target="_blank" href="https://7daysofcode-optimustech.vercel.app/">
-          <img width="90%" src="./assets/mockup.jpg" alt="portifolio">
+          <img width="90%" src="https://github.com/user-attachments/assets/13ed09c4-fa9c-4320-b36d-b43727ccfc34">
   </a>
 </div>
 
 <div align="center">
     <h3>Página completa</h3><br>
     <a target="_blank" href="https://7daysofcode-optimustech.vercel.app/">
-    <img width="80%" src="./assets/print_home.png" alt="portifolio">
+    <img width="80%" src="./assets/print_home.png">
     </a>
 </div>
 <br>
